@@ -1,0 +1,14 @@
+{
+  "name": "newtab",
+  "version": "0.1.0",
+  "description": "css for lightnovel epub",
+  "main": "index.js",
+  "devDependencies": {
+    "stylus": "^0.54.8"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "gyara",
+  "license": "MIT"
+}
